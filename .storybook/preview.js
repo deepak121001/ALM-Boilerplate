@@ -1,5 +1,5 @@
-/** @type { import('@storybook/react').Preview } */
-import * as NextImage from 'next/image';
+/** @type { import('@storybook/react').Preview */
+import * as NextImage from 'next/image'; }
 import '../src/app/global.css';
 const BREAKPOINTS_INT = {
   xs: 375,
